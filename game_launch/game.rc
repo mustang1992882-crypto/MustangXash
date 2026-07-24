@@ -13,15 +13,15 @@
 #define VER_FILETYPE		VFT_DLL
 #define VER_FILESUBTYPE		VFT2_UNKNOWN
 
-#define VER_COMPANYNAME_STR	"Flying With Gauss"
-#define VER_LEGALCOPYRIGHT_STR	"Flying With Gauss"
-#define VER_PRODUCTNAME_STR	"Xash3D Launcher"
+#define VER_COMPANYNAME_STR      "Mustang Engine Team"
+#define VER_LEGALCOPYRIGHT_STR   "Copyright (C) 2026 Mustang Engine Team"
+#define VER_PRODUCTNAME_STR      "Mustang Engine"
 
 #define VER_ANSICP
 
-#define VER_FILEDESCRIPTION_STR		"Xash3D FWGS Launcher"
-#define VER_ORIGINALFILENAME_STR	"xash.exe"
-#define VER_INTERNALNAME_STR		"xash"
+#define VER_FILEDESCRIPTION_STR  "Mustang Engine Launcher"
+#define VER_ORIGINALFILENAME_STR	"Mustang.exe"
+#define VER_INTERNALNAME_STR		"Mustang"
 
 #include <common.ver>
 
